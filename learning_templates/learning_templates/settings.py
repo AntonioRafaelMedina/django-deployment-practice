@@ -25,7 +25,7 @@ SECRET_KEY = 'mpe5vd=%_65plavucc82(2a$53-&f=z2wrj_3+uv*a#yn49-3s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['antonioramedina.pythonanywhere.com']
 
 
 # Application definition
